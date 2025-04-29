@@ -1,1 +1,10 @@
 /* здесь используйте глобальные селекторы img, body, html и так далее */
+body {
+  width: 320px;
+  height: 2935px;
+  font-family: $main-font;
+  font-size: 14px;
+  letter-spacing: 0%;
+  color: #000000;
+  margin: 0 auto;
+}
